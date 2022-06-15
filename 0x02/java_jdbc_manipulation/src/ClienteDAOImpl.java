@@ -23,7 +23,7 @@ public class ClienteDAOImpl implements ClienteDAO{
     }
 
     @Override
-    public void update(String urlConexao, int id, String nome, Integer idade){
+    public void update(String urlConexao, int id, String name, Integer idade){
 
     }
 

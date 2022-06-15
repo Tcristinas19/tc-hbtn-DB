@@ -6,6 +6,6 @@ public class ClienteDAO {
     public void createTable(String urlConexao);
     public void insert(String url_conexao, Cliente cliente);
     public void SelectAll(String urlConexao);
-    public void update(String urlConexao, int id, String nome, Integer idade);
+    public void update(String urlConexao, int id, String name, Integer idade);
     public void delete(String urlConexao, int id);
 }

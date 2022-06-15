@@ -1,6 +1,6 @@
 import java.sql.Connection;
 
-public class ClienteDAO {
+public interface ClienteDAO {
 
     public Connection connect(String urlConexao);
     public void createTable(String urlConexao);

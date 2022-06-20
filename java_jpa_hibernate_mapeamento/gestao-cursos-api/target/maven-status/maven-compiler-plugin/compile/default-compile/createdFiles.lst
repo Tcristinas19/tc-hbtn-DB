@@ -1,0 +1,9 @@
+entities/Aluno.class
+entities/Curso.class
+demo/GestaoCursosMain.class
+entities/Professor.class
+entities/Telefone.class
+entities/MaterialCurso.class
+entities/Endereco.class
+models/AlunoModel.class
+models/CursoModel.class

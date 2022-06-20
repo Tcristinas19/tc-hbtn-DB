@@ -11,11 +11,7 @@ Q
 !src/main/java/entities/Curso.java,9/e/9e077117420290e16356386ed545cc1a7d6e5cb6
 Y
 )src/main/java/entities/MaterialCurso.java,5/1/51a9928e3d18a9eee275e21aeee62fba47785f8f
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 T
 $src/main/java/models/CursoModel.java,4/8/48d7d5205c750af7f2c81cb544d705ddd7520b62
 T
 $src/main/java/models/AlunoModel.java,b/6/b687729ac9fe9dbec278f95e31f2496bba9a0e0c
-X
-(src/main/java/demo/GestaoCursosMain.java,d/9/d9623f074a2b568951e32879d40e232953d7b234
